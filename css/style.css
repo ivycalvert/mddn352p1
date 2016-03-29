@@ -1,0 +1,58 @@
+
+
+h1{
+	color: white;
+	font-size: 50px;
+}
+
+h2 {
+
+}
+
+.header {
+	background-color: #E1E1E1;
+	text-align: center;
+
+	/*padding: 30px;*/
+}
+
+.icon {
+	width: 250px;
+}
+
+.bodyWrapper{
+	border:1px solid black;
+
+}
+
+.text{
+	border:1px solid black;
+	padding: 10px;
+	overflow: auto;
+}
+
+.image{
+	position:center;
+
+}
+
+.image img {
+	padding: 5px;
+	width: 100%;
+	height: auto;
+}
+
+.sketches {
+	border: 1px solid black;
+	min-height:30px;
+}
+
+/*.sketches img{
+	margin:auto;
+	width: 60%;
+}
+*/
+.video {
+	border:1px solid black;
+}
+
