@@ -22,11 +22,35 @@ p {
 
 }
 
-.p2 {
-
-    font-size: 2.15vmin;
-    text-align: justify;
+/*
+.header {
+	background-color: #E1E1E1;
+	text-align: center;
+	padding:15px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e1e1e1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}*/
 
 .navbar-fixed-top {
 	border: 0px;
@@ -56,6 +80,11 @@ body {
         background-color:#e1e1e1;
     }
 }
+
+
+
+
+
 
 .icon {
 	width: 300px;
@@ -101,7 +130,6 @@ width: 100% ;
 height: 5vmin ;
 background-color: #e1e1e1 ;
 }
-
 
 
 
